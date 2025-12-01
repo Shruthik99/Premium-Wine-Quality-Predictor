@@ -108,7 +108,8 @@ The dashboard features:
 - **Left Sidebar**: Backend status monitoring, model selection, and input method configuration
 - **Main Area**: Wine property input sliders and real-time prediction results
 - **Responsive Layout**: Two-column design for optimal user experience
-  <img width="624" height="322" alt="image" src="https://github.com/user-attachments/assets/044f3baa-0a76-4457-8a5d-80e70a512cae" />
+  <img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/8f148b78-73a0-4ab6-9417-dd1eb3828463" />
+
 
   ### ✅ Backend Health Monitoring
 
