@@ -116,6 +116,8 @@ The dashboard features:
 ![Backend Status](assets/screenshots/backend_status.png)
 *Real-time backend health check showing 2 models successfully loaded (XGBoost and Random Forest)*
 
+<img width="600" height="273" alt="image" src="https://github.com/user-attachments/assets/23c0cca7-9017-4246-a1db-0ca9c5da806f" />
+
 The application continuously monitors backend connectivity and displays:
 - ✅ Green indicator when FastAPI backend is online
 - Model count verification
@@ -141,6 +143,7 @@ The application continuously monitors backend connectivity and displays:
   "models_loaded": ["random_forest", "xgboost"]
 }
 ```
+<img width="975" height="259" alt="image" src="https://github.com/user-attachments/assets/48d115eb-94f5-40c8-91fc-e98f7431869b" />
 
 Access interactive API documentation at: http://localhost:8000/docs
 
@@ -168,6 +171,8 @@ Users can upload JSON files containing wine properties:
   "alcohol": 9.4
 }
 ```
+
+<img width="975" height="167" alt="image" src="https://github.com/user-attachments/assets/812010e5-7e4c-4755-9e86-2a0f9bf7e2da" />
 
 The uploaded file is previewed before prediction, allowing users to verify data correctness.
 
