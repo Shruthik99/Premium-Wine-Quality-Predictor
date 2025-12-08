@@ -1,7 +1,7 @@
 ### 🍷 Premium Wine Quality Predictor 
 
 ### 🎯 Project Overview
-An end-to-end Machine Learning Operations (MLOps) project that predicts wine quality based on physicochemical properties. This project demonstrates industry-standard practices including model serving via REST API, interactive frontend, and comprehensive ML pipeline implementation.
+The Project aims to predict wine quality based on physicochemical properties. This project demonstrates industry-standard practices including model serving via REST API, interactive frontend, and comprehensive ML pipeline implementation.
 
 ### 🌟 Key Features
 Multi-Model Comparison: Random Forest, XGBoost, and Neural Network models
